@@ -1,0 +1,26 @@
+# stm32cubemx
+**/.mxproject
+
+# vscode
+.vscode
+
+# cmake
+**/build/
+**/cmake/
+# CMake files
+**/CMakeFiles/
+**/CMakeCache.txt
+**/Makefile
+/*.cmake
+/*.ninja
+/*.ninja_deps
+/*.ninja_log
+compile_commands.json
+
+**/Drivers/**
+# # STM32CubeMX generated files
+# *.ioc
+# *.launch
+# *.log
+# *.swp
+# *.bak
